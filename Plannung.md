@@ -1,8 +1,5 @@
-# Planung 
+# Product Backlog
 
-| Themenblöcke | Beschreibung | Zeitaufwand | Kosten | |
-| -------------|---------------|------| -----|---|
-| Design| Sollte den User einen guten Überblick über den Website haben | ca. 6 - 8 Stunden| ? | jede Seite |
-| Suchleitste| Zum navigieren zwischen Main-Page und den Zwischenpages| ca 4 Stunden |  ? | jeder Seite | 
-| Content Main Page | Soll eine Beschreibung zu Anime und Manga geben | ca. 2 Stunden | ? | Main Page |
-| registrieren und Anmeldefunktion| Speicher so die Lieblingsanime/manga ab | ca < 10 Stunden | ? | registrieren/Anmelde Seite | 
+| ID | Prio | Epic | User Story | COS | Effort |
+| ---|------|------| -----------|-----|--------|
+| magni-web1 | 1 | main-page | Sollte den Benutzer eine klare Übersicht über das Thema geben. | Als Beitzer der Seite möchte ich den Content |    regelmäßig aktulisieren um den Benutzer auf dem neusten Stand zu bringen (bsp. Newletter) | - | 
