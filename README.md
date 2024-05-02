@@ -8,4 +8,5 @@ Focus dieses Project soll es den Benutzer die Interresse an diesem Thema näher 
 
 ## Inhaltsvezeichnis
 
-## Ausgangssituation [here] (Workspace/InitialSituation.md)
+## Ausgangssituation 
+[here] (Workspace/InitialSituation.md)
