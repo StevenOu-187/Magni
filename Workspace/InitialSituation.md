@@ -39,8 +39,17 @@ Da wir folgende Schnittstellen benötigen:
 + Social Media-Schnittstelle
 + Benutzeroberfläche
 
-## 
 
 ## Marketingskosten: 
 
 Um einen Erfolg des Projekts zu erzielen wird für Marketing 30% des Gesamtkosten investiert.
+Kosten: 4500€ 
+
+## Gesamtkostenaufstellung: 16.500€ 
+
+# Monetarisierung:
+
+Die wichtigeste Frage eines Projekt ist, wie man im Endeffekt Geld verdienen kann.
+Magni ist kostenfrei nutzbar, es soll für jeden verfügbar sein. 
+Die Hauptfinanzierung wird durch Werbungen, andere Einnahmequellen sind im späteren Verlauf Abonnement
+und Partnerschaften im anderen Streaming-Plattformen.
