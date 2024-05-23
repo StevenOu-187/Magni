@@ -1,12 +1,12 @@
 # Product Backlog
 
-| ID | Prio | Epic | User Story | COS | Effort |
-| ---|------|------| -----------|-----|--------|
-| magni-web1 | 1 | main-page | Der Benutzer soll eine Webseite bekommen die ihn auf die Wichtigsten Sachen hin merkt. | Wir stellen den Benutzer ein klare und schön designte Webseite zu verfügung.  | - | 
-| magni-web2 | 4 | register-page | Der Benutzer soll einen leichten und schnellen Regestierung haben.  | Als Owner müssen wir den Benutzer so schnell wie möglich in die Datenbanken einfügen und sein Account sicher Verwalten. | - | 
-| magni-web2.1 | 4 | register-page | Benutzer kann auch ohne Registrierung die Webseite nutzen | Wir stellen den Besucher alle Vorteile ohne Registrierung zur Verfügung | - | 
-| magni-web3 navbar 1.0 | 3 | searchbar | Wir stellen den Benutzer die Möglichkeit zwischen der Main-Page und Anime/Manga-Page zu navigieren | Die Searchbar soll leicht und verständlich sein und ohne Probleme sein. | - |
-| magni-web4 navbar 2.0 | 5 | searchbar | Der Benutzer kann durch die Searchfunktion seinen gewünschten Anime/Manga suchen | Wir stellen den Benutzer die Möglichkeit schnell und präzise sein gewünschten Anime/Manga zu finden | - | 
-| magni-web content | 2 | main-page-content | Der Anime/Manga Abschnitt soll ein teil der History und die wichtigsten Merkmale eines Anime/Manga.  | Soll Leicht und Schlicht geschrieben werden, aber mit genug Informationen | - | 
-| magni-web-anime/manga 0.0 | 3 | Anime/Manga-page | Der Benutzer kann sich einen x beliebigen Anime/Manga aussuchen. | Wir stellen den Benutzer eine Liste der Anime/Manga aus, die nach dem Alphabet sortiert ist. | - | 
-| magni-web-anime/manga 1.0 | 2 | Anime/Manga-page | Der Benutzer soll am Anfang der Liste 12 Anime/Mangas zur Auswahl bekommen. | Wir stellen den Benutzer die 12 beliebtesten Anime/Manga | - | 
+| ID | Prio | Epic | User Story | COS | Effort | Time |
+| ---|------|------| -----------|-----|--------|------|
+| magni-web1 | 1 | main-page | Als Benutzer möchte ich einen klaren Überblick über die Seite haben, um das ich dieses Angebot für mich entsprechend ist. | Wir stellen den Benutzer ein klare und schön designte Webseite zu verfügung.  | 3 | 2h |
+| magni-web content | 2 | main-page-content | Als Benutzer möchte ich die History und wichtigsten Merkmale haben, um Informationen über das Thema zu haben. | Soll Leicht und Schlicht geschrieben werden, aber mit genug Informationen | 1 | - | 
+| magni-web-anime/manga 1.0 | 2 | Anime/Manga-page | Als Benutzer möchte ich 12 der beliebtsten Anime/Manga, um einen ersten Überblick über die Anime/Manga zu haben.  | Wir stellen den Benutzer die 12 beliebtesten Anime/Manga | - | - |
+| magni-web3 navbar 1.0 | 3 | searchbar | Als Benutzer möchte ich zwischen Anime und Manga Page zu wechseln,  | Die Searchbar soll leicht und verständlich sein und ohne Probleme sein. | - | - |
+| magni-web-anime/manga 0.0 | 3 | Anime/Manga-page | Als Benutzer möchte ich einen x beliebigen Anime/Manga aussuchen, um zu schauen ob der Anime/Manga nach meiner Vorstellung entspricht. | Wir stellen den Benutzer eine Liste der Anime/Manga aus, die nach dem Alphabet sortiert ist. | - | - |
+| magni-web2 | 4 | register-page | Als Benutzer möchte ich leichte und schnelle Registrierung haben, um die Feature der Seite zu nutzen zu können. (Newsletter, Watchlist)  | Als Owner müssen wir den Benutzer so schnell wie möglich in die Datenbanken einfügen und sein Account sicher Verwalten. | - | - |
+| magni-web2.1 | 4 | register-page | Als Benutzer möchte ich die Webseite auch ohne Registrierung nutzen zu können, um Anime/Manga zu schauen/lesen. | Wir stellen den Besucher alle Vorteile ohne Registrierung zur Verfügung | - | - |
+| magni-web4 navbar 2.0 | 5 | searchbar | Als Benutzer möchte ich den nach Anime/Manga suchen, um schnell wie möglich den gewünschten Anime/Manga zu finden. | Wir stellen den Benutzer die Möglichkeit schnell und präzise sein gewünschten Anime/Manga zu finden | - | - |

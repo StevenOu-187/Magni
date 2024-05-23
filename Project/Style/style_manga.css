@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: orangered;
+    background: linear-gradient(0deg, rgba(250,130,0,1) 0%, rgba(179,166,127,1) 100%);
 }
 
 header {
@@ -54,6 +54,7 @@ header {
 }
 
 .manga_container{
-    display:flex;
-    grid-template-columns: repeat(3 1fr);   
+    display:grid;
+    grid-template-columns: repeat(3 1fr);
+    gap:50px;
 }
