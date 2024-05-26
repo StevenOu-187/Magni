@@ -1,31 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "Style/style_manga.css"> 
-    <title>Document</title>
+    <title>Zweite Seite</title>
+    <link rel="stylesheet" href="Style/style_manga.css">
 </head>
 <body>
-    <div class="container">
-        <div class="column search-column">
-            <div class="search-bar">
-                <input type="text" placeholder="Suchen...">
-                <button type="submit">Suchen</button>
-            </div>
-        </div>
-        <div class="column">
-            <button class="button" a href = ./Anime.html> Anime </button> 
-        </div>
-        <div class="column">
-            <button class="button" > Manga </button> 
-        </div>
-    </div>
     <header>
-        <h1> Manga </h1>
-        <div class="manga_container">
-        
+        <div class="search-container">
+            <a href="Main.html" class="logo-link">
+                <img src="Img/logo.png" alt="Logo" class="logo">
+            </a>
+            <input type="text" placeholder="Suche..." id="search-bar">
+            <a href="Anime.html" class="link">Anime</a>
+            <a href="Manga.html" class="link">Manga</a>
         </div>
     </header>
+    <main>
+        <h1>Manga</h1>
+        <div class="content">
+            <div class="grid-container-3x4">
+                <div class="grid-item">Item 1</div>
+                <div class="grid-item">Item 2</div>
+                <div class="grid-item">Item 3</div>
+                <div class="grid-item">Item 4</div>
+                <div class="grid-item">Item 5</div>
+                <div class="grid-item">Item 6</div>
+                <div class="grid-item">Item 7</div>
+                <div class="grid-item">Item 8</div>
+                <div class="grid-item">Item 9</div>
+                <div class="grid-item">Item 10</div>
+                <div class="grid-item">Item 11</div>
+                <div class="grid-item">Item 12</div>
+            </div>
+            <button onclick="window.location.href='main.html'">Main Page</button>
+        </div>
+    </main>
 </body>
 </html>
