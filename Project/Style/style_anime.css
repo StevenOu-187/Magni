@@ -106,12 +106,10 @@ button:hover {
     background-color: #0056b3;
 }
 
-.grid-item1 {
-    padding: 20px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    text-align: center;
-    height: 100px;
-    width: auto;
+.grid-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    transition: transform 0.3s;
 }

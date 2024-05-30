@@ -52,7 +52,7 @@ header {
 }
 
 .link:hover {
-    background-color: rgba(68, 68, 68, 0.8);
+    background-color: #f0f0f0;
     border: 1px solid #007BFF;
 }
 
