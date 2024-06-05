@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background:black;
+    background:radial-gradient(rgb(9, 86, 142), black);
     color: #ffffff;
 }
 
@@ -56,49 +56,6 @@ header {
     border: 1px solid #007BFF;
 }
 
-main {
-    text-align: center;
-    margin-top: 20px;
-    width: 100%;
-    max-width: 800px;
-}
-
-h1 {
-    margin-bottom: 20px;
-}
-
-.video-container {
-    margin-bottom: 60px;
-}
-
-video {
-    width: 100%;
-    max-width: 800px;
-    height: auto;
-}
-
-.content {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 60px;
-}
-
-.grid-item {
-    padding: 20px;
-    background-color: rgba(68, 68, 68, 0.8);
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    text-align: center;
-    width: 500px;
-    color: #ffffff;
-}
-
 button {
     padding: 10px 20px;
     font-size: 16px;
@@ -111,4 +68,61 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+main {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.anime-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 800px;
+}
+
+.anime-description {
+    flex: 2;
+    margin-right: 20px;
+}
+
+.anime-description h2 {
+    margin-top: 0;
+}
+
+.anime-description p {
+    background-color: rgba(68, 68, 68, 0.8); /* Hintergrundfarbe auf Dunkelgrau mit Transparenz */
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.episode-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.episode-list li {
+    background-color: rgba(68, 68, 68, 0.8); /* Hintergrundfarbe auf Dunkelgrau mit Transparenz */
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.anime-image {
+    flex: 1;
+}
+
+.anime-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
 }
