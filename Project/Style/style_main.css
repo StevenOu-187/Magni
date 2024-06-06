@@ -112,3 +112,9 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+@media (max-width:1000px){
+    .search-bar{
+        width: 200px;
+    }
+}
