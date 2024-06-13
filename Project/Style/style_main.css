@@ -115,7 +115,8 @@ button:hover {
 
 @media (max-width:1000px){
     .search-bar{
-        width: 200px;
+        width: 0px;
+        border-radius: 2px;
     }
 
     .grid-container{
